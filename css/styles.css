@@ -1,0 +1,8 @@
+.custom-sidebar {
+  -ms-flex: 0 0 230px;
+  flex: 0 0 230px;
+}
+
+.sidebar-contact {
+  font-size: 15px;
+}
